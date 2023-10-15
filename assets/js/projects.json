@@ -18,7 +18,7 @@
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
-                "background-img": "images/ptt_demo.png",
+                "background-img": "images/1.gif",
                 "tags": [2, 3, 6]
             }, 
             {
@@ -30,7 +30,7 @@
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
-                "background-img": "assets/icons/huggingface-icon.png",
+                "background-img": "assets/8.gif",
                 "tags": [0]
             },
             {
@@ -54,7 +54,7 @@
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
-                "background-img": "https://github.com/alvinbhou/KMF-Unblock-Extension/blob/master/icons/kmf-unblock-icon-128.png?raw=False",
+                "background-img": "assets/9.gif",
                 "tags": [2, 5]
             },
             {
@@ -74,7 +74,7 @@
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
-                "background-img": "images/0xdonate_demo.png",
+                "background-img": "images/2.gif",
                 "tags": [2, 4]
             }
            
@@ -94,7 +94,7 @@
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
-                "background-img": "images/pcbot_demo.jpg",
+                "background-img": "images/3.gif",
                 "tags": [0, 1]
             },
             {
@@ -105,7 +105,7 @@
                     "url": "https://github.com/alvinbhou/Video2Text",
                     "icon-url": "assets/icons/github-icon.png"
                 }],
-                "background-img": "images/video2text.gif",
+                "background-img": "images/4.gif",
                 "tags": [0]
 
             }
@@ -130,7 +130,7 @@
                     "icon-url": "assets/icons/github-icon.png"
                 }
             ],
-            "background-img": "images/MaTerialgram.png",
+            "background-img": "images/5.gif",
             "tags": [2, 6]
         },
         {
@@ -154,7 +154,7 @@
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
-                "background-img": "images/ntucoursebot_demo.jpg",
+                "background-img": "images/6.gif",
                 "tags": [1]
             },
             {
@@ -172,7 +172,7 @@
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
-                "background-img": "images/dac_demo.jpg",
+                "background-img": "images/7.gif",
                 "tags": [2]
             }
         ]
