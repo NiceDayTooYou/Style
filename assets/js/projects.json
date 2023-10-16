@@ -3,7 +3,7 @@
         "lists": [{
                 "title": "人生得意须尽欢，莫使金樽空对月",
                 "description": "长风破浪会有时，直挂云帆济沧海",
-                "description-long": "<b>[FastAPI, PostgreSQL, Docker, Swagger Docs] </b><br> Built APIs that returns personalized grad program recommendation results, based on students’ background and admission history",
+                "description-long": "<br> 长风破浪会有时，直挂云帆济沧海",
 
                 "url": "https://alvinbhou.github.io/studyabroad/",
                 "links": [
