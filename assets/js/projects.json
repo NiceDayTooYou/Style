@@ -5,11 +5,11 @@
                 "description": "长风破浪会有时，直挂云帆济沧海",
                 "description-long": "<br> 长风破浪会有时，直挂云帆济沧海",
 
-                "url": "https://alvinbhou.github.io/studyabroad/",
+                "url": "https://liyong.online/",
                 "links": [
 
                     {
-                        "url": "https://github.com/alvinbhou/ptt-studyabroad-api",
+                        "url": "https://www.liyong.online",
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
@@ -20,7 +20,7 @@
                 "title": "莫愁前路无知己，天下谁人不识君",
                 "description": "大鹏一日同风起，扶摇直上九万里",
                 "links": [{
-                        "url": "https://github.com/alvinbhou/Stanford-CS224n-QA-Project",
+                        "url": "https://www.liyong.online",
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
@@ -31,7 +31,7 @@
                 "title": "日暮乡关何处是，烟波江上使人愁",
                 "description": "愿作天池双鸳鸯，一朝飞去青云上",
                 "links": [{
-                        "url": "https://github.com/alvinbhou/Stanford-CS224n-QA-Project",
+                        "url": "https://www.liyong.online",
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
@@ -42,7 +42,7 @@
                 "title": "欲渡黄河冰塞川，将登太行雪满山",
                 "description": "两岸猿声啼不住，轻舟已过万重山",
                 "links": [{
-                        "url": "https://github.com/alvinbhou/Stanford-CS224n-QA-Project",
+                        "url": "https://www.liyong.online",
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
@@ -52,17 +52,12 @@
            
         ]
     }, {
-        "category": "Machine Learning and Deep Learning",
+        "category": "学而不思则罔,思而不学则殆",
         "lists": [{
-                "title": "Plants Identification",
-                "url": "https://github.com/alvinbhou/Plants-Identification",
-                "description": "<b>[Keras, Telepot]  </b><br>Plants Recognition Project to classify and detect 240 Taiwan endemic plant species (with chatbot implementation)",
+                "title": "知之者不如好之者,好之者不如乐之者",
+                "description": "择其善者而从之，其不善者而改之",
                 "links": [{
-                        "url": "https://t.me/Plant_Classification_Bot",
-                        "icon-url": "assets/icons/telegram-icon.png"
-                    },
-                    {
-                        "url": "https://github.com/alvinbhou/Plants-Identification",
+                        "url": "https://www.liyong.online",
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
@@ -70,11 +65,11 @@
                 "tags": [0]
             },
             {
-                "title": "Video-to-Text",
-                "description": " An Encoder-Decoder Model for Sequence-to-Sequence learning: Video2Text",
-                "url": "https://github.com/alvinbhou/Video2Text",
+                "title": "不逆诸己，不逆诸人，下学而上达也",
+                "description": " 爱是世界上最美好的东西，没有之一",
+                "url": "https://liyong.online",
                 "links": [{
-                    "url": "https://github.com/alvinbhou/Video2Text",
+                    "url": "https://www.liyong.online",
                     "icon-url": "assets/icons/github-icon.png"
                 }],
                 "background-img": "assets/icons/2023.png",
@@ -84,45 +79,23 @@
         ]
     },
     {
-        "category": "Web Apps, Chatbot and Volunteer Supporting Projects",
+        "category": "生活是一个精彩的谜，我们每个人都是谜底的解答",
         "lists": [{
-            "title": "MaTerialgram",
-            "description": "Extension to redesign Telegram with the new Material Design, providing dark and light theme",
-            "url": "https://github.com/alvinbhou/MaTerialgram/",
-            "links": [{
-                    "url": "https://chrome.google.com/webstore/detail/aebgckccbkgbeigkkdglihleeipanoan",
-                    "icon-url": "https://i.imgur.com/zv5G8Ly.png"
-                },
-                {
-                    "url": "https://addons.mozilla.org/en-US/firefox/addon/materialgram/",
-                    "icon-url": "https://i.imgur.com/M6KOVju.png"
-                },
-                {
-                    "url": "https://github.com/alvinbhou/MaTerialgram/",
-                    "icon-url": "assets/icons/github-icon.png"
-                }
-            ],
+            "title": "真正的宝藏不是金银财宝，而是我们内心的善良和慷慨",
+                "description": "人一生的困苦，大抵是因为不了解自己",
+                "links": [{
+                        "url": "https://www.liyong.online",
+                        "icon-url": "assets/icons/github-icon.png"
+                    }
+                ],
             "background-img": "assets/icons/2023.png",
             "tags": [0]
         },
         {
-                "title": "NTU Course Bot",
-                "description": "Cross-platform Chatbot providing NTU course information (台大課程機器人)",
-                "description-long": "<b>[Campus Supporting Tool]    </b><br> Cross-platform Chatbot providing NTU courses information and historical grade distribution (Works on FB/Line/Telegram)",
-
-                "url": "https://github.com/alvinbhou/NTU-Course-Bot",
-                "links": [
-
-                    {
-                        "url": "https://www.facebook.com/NTU-Course-Bot-853483114844867/",
-                        "icon-url": "assets/icons/messenger-icon.png"
-                    },
-                    {
-                        "url": "https://t.me/ntucoursebot",
-                        "icon-url": "assets/icons/telegram-icon.png"
-                    },
-                    {
-                        "url": "https://github.com/alvinbhou/NTU-Course-Bot",
+                "title": "命运将一切带到眼前，无论你是否愿意",
+                "description": "忘记是一种幸福，我想成为一个幸福的人",
+                "links": [{
+                        "url": "https://www.liyong.online",
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
@@ -130,17 +103,10 @@
                 "tags": [0]
             },
             {
-                "title": "Digital Collection Autocomplete",
-                "description": "A supporting project for Ministry of Culture's 數位典藏完備計畫",
-                "description-long": "<b>[Taiwan Ministry of Culture Supporting Tool]</b><br> A supporting project for Ministry of Culture's 'Digital Collection Plan'. Helps art researchers to improve productivity.",
-                "url": "https://github.com/alvinbhou/Digital-Collection-Autocomplete",
+                "title": "有一些事情，一旦失去，就永远不再拥有",
+                "description": "无论如何，时间都会一点一点地流逝，生命也会一点一点地消失",
                 "links": [{
-                        "url": "https://alvinbhou.github.io/Digital-Collection-Autocomplete",
-                        "icon-url": "assets/icons/DAC-icon.png",
-                        "dark-icon-url": "assets/icons/DAC-icon-dark.png"
-                    },
-                    {
-                        "url": "https://github.com/alvinbhou/Digital-Collection-Autocomplete",
+                        "url": "https://www.liyong.online",
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
