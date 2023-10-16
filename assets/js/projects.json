@@ -18,8 +18,8 @@
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
-                "background-img": "images/1.gif",
-                "tags": [2, 3, 6]
+                 "background-img": "assets/icons/2023.png",
+                "tags": [0]
             }, 
             {
                 "title": "Ensemble & Multitask Learning w/ BERT for Question Answering",
@@ -30,7 +30,7 @@
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
-                "background-img": "assets/8.gif",
+                "background-img": "assets/icons/2023.png",
                 "tags": [0]
             },
             {
@@ -54,8 +54,8 @@
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
-                "background-img": "assets/9.gif",
-                "tags": [2, 5]
+                "background-img": "assets/icons/2023.png",
+                "tags": [0]
             },
             {
                 "title": "0x Donate",
@@ -74,8 +74,8 @@
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
-                "background-img": "images/2.gif",
-                "tags": [2, 4]
+                "background-img": "assets/icons/2023.png",
+                "tags": [0]
             }
            
         ]
@@ -94,8 +94,8 @@
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
-                "background-img": "images/3.gif",
-                "tags": [0, 1]
+                "background-img": "assets/icons/2023.png",
+                "tags": [0]
             },
             {
                 "title": "Video-to-Text",
@@ -105,7 +105,7 @@
                     "url": "https://github.com/alvinbhou/Video2Text",
                     "icon-url": "assets/icons/github-icon.png"
                 }],
-                "background-img": "images/4.gif",
+                "background-img": "assets/icons/2023.png",
                 "tags": [0]
 
             }
@@ -130,8 +130,8 @@
                     "icon-url": "assets/icons/github-icon.png"
                 }
             ],
-            "background-img": "images/5.gif",
-            "tags": [2, 6]
+            "background-img": "assets/icons/2023.png",
+            "tags": [0]
         },
         {
                 "title": "NTU Course Bot",
@@ -154,8 +154,8 @@
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
-                "background-img": "images/6.gif",
-                "tags": [1]
+                "background-img": "assets/icons/2023.png",
+                "tags": [0]
             },
             {
                 "title": "Digital Collection Autocomplete",
@@ -172,8 +172,8 @@
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
-                "background-img": "images/7.gif",
-                "tags": [2]
+                "background-img": "assets/icons/2023.png",
+                "tags": [0]
             }
         ]
     }
