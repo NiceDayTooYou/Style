@@ -1,30 +1,15 @@
 [{
-        "category": "Selected Projects",
+        "category": "海内存知己，天涯若比邻",
         "lists": [{
-                "title": "Recommendation System for CS Graduate Programs",
-                "description": "Built APIs with FastAPI and Postgres that returns personalized program recommendations based on a student’s background",
-                "description-long": "<b>[FastAPI, PostgreSQL, Docker, Swagger Docs] </b><br> Built APIs that returns personalized grad program recommendation results, based on students’ background and admission history",
+                "title": "人生得意须尽欢，莫使金樽空对月",
+                "description": "长风破浪会有时，直挂云帆济沧海",
 
-                "url": "https://alvinbhou.github.io/studyabroad/",
-                "links": [
-
-                    {
-                        "url": "https://alvinbhou.github.io/studyabroad/",
-                        "icon-url": "assets/icons/DAC-icon.png",
-                        "dark-icon-url": "assets/icons/DAC-icon-dark.png"
-                    },
-                    {
-                        "url": "https://github.com/alvinbhou/ptt-studyabroad-api",
-                        "icon-url": "assets/icons/github-icon.png"
-                    }
-                ],
-                 "background-img": "assets/icons/2023.png",
+                "background-img": "assets/icons/2023.png",
                 "tags": [0]
             }, 
             {
-                "title": "Ensemble & Multitask Learning w/ BERT for Question Answering",
-                "url": "https://github.com/alvinbhou/Stanford-CS224n-QA-Project/",
-                "description": "<b>[PyTorch, SQuAD2.0]  </b><br>Fine-tuned BERT models with auxuliary tasks for question answering on SQuAD 2.0, ranked top 3 in CS224n class leaderboard",
+                "title": "莫愁前路无知己，天下谁人不识君",
+                "description": "大鹏一日同风起，扶摇直上九万里",
                 "links": [{
                         "url": "https://github.com/alvinbhou/Stanford-CS224n-QA-Project",
                         "icon-url": "assets/icons/github-icon.png"
@@ -34,8 +19,8 @@
                 "tags": [0]
             },
             {
-                "title": "KMF Unblock Extension",
-                "description": "A Chrome and Firefox extension that bypasses KMF region restriction",
+                "title": "日暮乡关何处是，烟波江上使人愁",
+                "description": "愿作天池双鸳鸯，一朝飞去青云上",
                 "description-long": "<b>[Over 20000+ users, Web Extension]  </b><br> A Chrome and Firefox extension that bypasses KMF region restriction, which helps students prepare for TOEFL/GRE tests",
 
                 "url": "https://github.com/alvinbhou/KMF-Unblock-Extension",
@@ -58,8 +43,8 @@
                 "tags": [0]
             },
             {
-                "title": "0x Donate",
-                "description": "An Ethereum donation service for streamers",
+                "title": "欲渡黄河冰塞川，将登太行雪满山",
+                "description": "两岸猿声啼不住，轻舟已过万重山",
                 "description-long": "<b>[Ethereum Smart Contract, Web3.js, React]  </b><br>A fully decentralized cross-platform donation service for streamers and viewers. Based on Ethereum smart contract",
                 "url": "https://0xdonate.io",
                 "links": [{
