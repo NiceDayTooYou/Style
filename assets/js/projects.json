@@ -30,21 +30,8 @@
             {
                 "title": "日暮乡关何处是，烟波江上使人愁",
                 "description": "愿作天池双鸳鸯，一朝飞去青云上",
-                "description-long": "<b>[Over 20000+ users, Web Extension]  </b><br> A Chrome and Firefox extension that bypasses KMF region restriction, which helps students prepare for TOEFL/GRE tests",
-
-                "url": "https://github.com/alvinbhou/KMF-Unblock-Extension",
-                "links": [
-
-                    {
-                        "url": "https://chrome.google.com/webstore/detail/kmf-unblock/jlbknbfjajehjmfjegefddgegipadonb",
-                        "icon-url": "https://i.imgur.com/zv5G8Ly.png"
-                    },
-                    {
-                        "url": "https://addons.mozilla.org/en-GB/firefox/addon/kmf-unblock/",
-                        "icon-url": "https://i.imgur.com/M6KOVju.png"
-                    },
-                    {
-                        "url": "https://github.com/alvinbhou/KMF-Unblock-Extension",
+                "links": [{
+                        "url": "https://github.com/alvinbhou/Stanford-CS224n-QA-Project",
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
@@ -54,17 +41,8 @@
             {
                 "title": "欲渡黄河冰塞川，将登太行雪满山",
                 "description": "两岸猿声啼不住，轻舟已过万重山",
-                "description-long": "<b>[Ethereum Smart Contract, Web3.js, React]  </b><br>A fully decentralized cross-platform donation service for streamers and viewers. Based on Ethereum smart contract",
-                "url": "https://0xdonate.io",
                 "links": [{
-                        "url": "https://0xdonate.io/",
-                        "icon-url": "/assets/icons/0xdonate-icon.png"
-                    },
-                    {
-                        "url": "https://medium.com/taipei-ethereum-meetup/0xdonate-an-ethereum-donate-service-for-streamers-a370f2b8f488",
-                        "icon-url": "assets/icons/medium-icon.png"
-                    }, {
-                        "url": "https://github.com/alvinbhou/0xDonate",
+                        "url": "https://github.com/alvinbhou/Stanford-CS224n-QA-Project",
                         "icon-url": "assets/icons/github-icon.png"
                     }
                 ],
