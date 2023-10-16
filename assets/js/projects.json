@@ -2,13 +2,9 @@
         "category": "海内存知己，天涯若比邻",
         "lists": [{
                 "title": "人生得意须尽欢，莫使金樽空对月",
-                "description": "长风破浪会有时，直挂云帆济沧海",
                 "description-long": "<br> 长风破浪会有时，直挂云帆济沧海",
-
                 "url": "https://liyong.online/",
-                "links": [
-
-                    {
+                "links": [{
                         "url": "https://www.liyong.online",
                         "icon-url": "assets/icons/github-icon.png"
                     }
@@ -56,6 +52,7 @@
         "lists": [{
                 "title": "知之者不如好之者,好之者不如乐之者",
                 "description": "择其善者而从之，其不善者而改之",
+                "url": "https://liyong.online",
                 "links": [{
                         "url": "https://www.liyong.online",
                         "icon-url": "assets/icons/github-icon.png"
@@ -81,8 +78,9 @@
     {
         "category": "生活是一个精彩的谜，我们每个人都是谜底的解答",
         "lists": [{
-            "title": "真正的宝藏不是金银财宝，而是我们内心的善良和慷慨",
+                "title": "真正的宝藏不是金银财宝，而是我们内心的善良和慷慨",
                 "description": "人一生的困苦，大抵是因为不了解自己",
+                "url": "https://liyong.online",
                 "links": [{
                         "url": "https://www.liyong.online",
                         "icon-url": "assets/icons/github-icon.png"
@@ -94,6 +92,7 @@
         {
                 "title": "命运将一切带到眼前，无论你是否愿意",
                 "description": "忘记是一种幸福，我想成为一个幸福的人",
+                "url": "https://liyong.online",
                 "links": [{
                         "url": "https://www.liyong.online",
                         "icon-url": "assets/icons/github-icon.png"
@@ -105,6 +104,7 @@
             {
                 "title": "有一些事情，一旦失去，就永远不再拥有",
                 "description": "无论如何，时间都会一点一点地流逝，生命也会一点一点地消失",
+                "url": "https://liyong.online",
                 "links": [{
                         "url": "https://www.liyong.online",
                         "icon-url": "assets/icons/github-icon.png"
