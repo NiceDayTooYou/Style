@@ -10,7 +10,7 @@
                     }
                 ],
                 "background-img": "assets/icons/2023.png",
-                "tags": [0]
+                
             }, 
             {
                 "title": "莫愁前路无知己，天下谁人不识君",
@@ -21,7 +21,7 @@
                     }
                 ],
                 "background-img": "assets/icons/2023.png",
-                "tags": [0]
+                
             },
             {
                 "title": "日暮乡关何处是，烟波江上使人愁",
@@ -32,7 +32,7 @@
                     }
                 ],
                 "background-img": "assets/icons/2023.png",
-                "tags": [0]
+                
             },
             {
                 "title": "欲渡黄河冰塞川，将登太行雪满山",
@@ -43,7 +43,7 @@
                     }
                 ],
                 "background-img": "assets/icons/2023.png",
-                "tags": [0]
+                
             }
            
         ]
@@ -59,7 +59,7 @@
                     }
                 ],
                 "background-img": "assets/icons/2023.png",
-                "tags": [0]
+                
             },
             {
                 "title": "不逆诸己，不逆诸人，下学而上达也",
@@ -70,7 +70,7 @@
                     "icon-url": "assets/icons/github-icon.png"
                 }],
                 "background-img": "assets/icons/2023.png",
-                "tags": [0]
+                
 
             }
         ]
@@ -87,7 +87,7 @@
                     }
                 ],
             "background-img": "assets/icons/2023.png",
-            "tags": [0]
+            
         },
         {
                 "title": "命运将一切带到眼前，无论你是否愿意",
@@ -99,7 +99,7 @@
                     }
                 ],
                 "background-img": "assets/icons/2023.png",
-                "tags": [0]
+                
             },
             {
                 "title": "有一些事情，一旦失去，就永远不再拥有",
@@ -111,7 +111,7 @@
                     }
                 ],
                 "background-img": "assets/icons/2023.png",
-                "tags": [0]
+                
             }
         ]
     }
